@@ -4,4 +4,7 @@
 
 ### You cant Remember Everything So I just need to simply FY it.
 
-![HTML](/html.png)
+![HTML](/HTML/html.png)
+
+### Semantics
+![semantic](/HTML/semantic.jfif)
