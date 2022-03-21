@@ -17,5 +17,9 @@ src="https://img.shields.io/twitter/follow/adarsh____gupta?logo=twitter&style=fo
 
 <a href="https://www.buymeacoffee.com/Adarshgupta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+### The roadMap I chose
+
+![](./assets/Roadmap.png)
+
 
 
