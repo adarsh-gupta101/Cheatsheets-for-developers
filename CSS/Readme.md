@@ -11,3 +11,5 @@
 ![GridBox1](/CSS/grid1.png)
 ## CSS GRID 2
 ![GridBox2](/CSS/grid2.png)
+## CSS Border
+![Border](/CSS/border.png)
